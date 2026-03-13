@@ -256,3 +256,5 @@ R3D-HUNT3ER/
 │   └── sessions/        # Saved chat sessions
 └── README.md
 ```
+
+# r3d-hunt3r
