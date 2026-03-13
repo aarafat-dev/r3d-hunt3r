@@ -1,0 +1,79 @@
+{
+  "labs": {
+    "Teletype": {
+      "level": "basic",
+      "category": "misc",
+      "status": "solved",
+      "flags": {"local": null, "proof": null},
+      "notes": ""
+    },
+    "Labyrinth": {
+      "level": "basic",
+      "category": "web",
+      "status": "solved",
+      "flags": {"local": null, "proof": null},
+      "notes": ""
+    },
+    "SeaPanda": {
+      "level": "intermediate",
+      "category": "web",
+      "status": "solved",
+      "flags": {"local": null, "proof": null},
+      "notes": ""
+    },
+    "Compete": {
+      "level": "intermediate",
+      "category": "misc",
+      "status": "solved",
+      "flags": {"local": null, "proof": null},
+      "notes": ""
+    },
+    "AD105": {
+      "level": "advanced",
+      "category": "active-directory",
+      "status": "in_progress",
+      "flags": {"local": null, "proof": null},
+      "notes": ""
+    },
+    "OpenClaw": {
+      "level": "intermediate",
+      "category": "linux",
+      "status": "solved",
+      "flags": {"local": null, "proof": null},
+      "notes": ""
+    },
+    "Nebula": {
+      "level": "intermediate",
+      "category": "linux",
+      "status": "solved",
+      "flags": {"local": null, "proof": null},
+      "notes": ""
+    },
+    "N8N": {
+      "level": "intermediate",
+      "category": "ai",
+      "status": "solved",
+      "flags": {"local": null, "proof": null},
+      "notes": ""
+    },
+    "MCP": {
+      "level": "intermediate",
+      "category": "ai",
+      "status": "solved",
+      "flags": {"local": null, "proof": null},
+      "notes": ""
+    }
+  },
+  "team_info": {
+    "platform": "SecDojo",
+    "flag_rules": {
+      "team_mode": "Only one member needs to submit the flag",
+      "wrong_flags": "Submitting wrong flags doesn't affect your score",
+      "uniqueness": "Flags are unique per lab instance (can't be shared)",
+      "linux_local": "/home/local.txt",
+      "linux_proof": "/root/proof.txt",
+      "windows_local": "C:\\Users\\Public\\local.txt",
+      "windows_proof": "C:\\Users\\Administrator\\Desktop\\proof.txt"
+    }
+  }
+}

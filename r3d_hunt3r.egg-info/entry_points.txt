@@ -1,0 +1,2 @@
+[console_scripts]
+r3d-hunt3r = cyberowl:cli

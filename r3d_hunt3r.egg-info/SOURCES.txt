@@ -1,0 +1,11 @@
+README.md
+cyberowl.py
+setup.py
+core/__init__.py
+core/agent.py
+r3d_hunt3r.egg-info/PKG-INFO
+r3d_hunt3r.egg-info/SOURCES.txt
+r3d_hunt3r.egg-info/dependency_links.txt
+r3d_hunt3r.egg-info/entry_points.txt
+r3d_hunt3r.egg-info/requires.txt
+r3d_hunt3r.egg-info/top_level.txt
