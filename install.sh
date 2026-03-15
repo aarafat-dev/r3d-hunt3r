@@ -51,7 +51,7 @@ echo ""
 
 # ── Clone repo ──────────────────────────────────────────────────
 
-REPO_URL="https://github.com/yourname/r3d-hunt3r.git"  # <-- update this
+REPO_URL="https://github.com/aarafat-dev/r3d-hunt3r.git"  # <-- update this
 
 if [ -d "$INSTALL_DIR" ]; then
     echo -e "${YELLOW}[!] Directory $INSTALL_DIR already exists.${NC}"
